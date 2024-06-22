@@ -1,1 +1,1 @@
-# chips-site
+# bakery-site
